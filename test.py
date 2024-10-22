@@ -1,3 +1,11 @@
+# First check version of your chrome browser in settings> about chrome
+# Download chrome web driver from https://developer.chrome.com/docs/chromedriver/downloads
+# extract zip and store it in C:>program files 
+# Create a test.py file and in terminal write  'pip install selenium'
+# Copy the following code and run
+
+
+
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 
